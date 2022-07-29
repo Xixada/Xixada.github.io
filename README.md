@@ -1,12 +1,8 @@
 # PEGASUS OS
 Github Page
 
----
-title: Home
----
 
 # Hello and welcome
-## Here you can find some guides for PWN-Term
 
 ### Pages
 * [Installing](pegasus.html)
