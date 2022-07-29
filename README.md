@@ -1,2 +1,2 @@
 # PEGASUS OS
-https://xixada.github.io
+Github Page
