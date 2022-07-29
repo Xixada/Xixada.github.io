@@ -27,3 +27,6 @@ Although Pegasus Mobile is like an application that requires root access, the fa
 ### Community channel
 * Telegram app is needed to join + App releases are firstly posted there
 * [Link to group](@)
+
+### Developer
+* [Joe](#)
