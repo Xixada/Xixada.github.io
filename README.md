@@ -1,5 +1,5 @@
-# PEGASUS OS
-Github Page
+# Out Of Box
+Official Github Page
 
 
 # Hello and welcome
