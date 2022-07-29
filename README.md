@@ -10,6 +10,9 @@ Official Github Page
 * [Releases](#)
 * [Developers](#)
 
+### Our project:
+* [Pegasus Mobile](#)
+
 ### Community channel
 * Telegram app is needed to join + App releases are firstly posted there
 * [Link to group](@)
