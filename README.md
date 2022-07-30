@@ -34,3 +34,4 @@ Although Pegasus Mobile is like an application that requires root access, the fa
 * [Alex](#)
 * [Zain](#)
 * [Termiar](#)
+* [Dominik](#)
