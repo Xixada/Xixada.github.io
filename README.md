@@ -8,7 +8,7 @@ Official Github Page
 * [Installing](pegasus.html)
 * [Other](#)
 * [Releases](#)
-* [Developers](#)
+* [Developers](https://xixada.github.io/#:~:text=Link%20to%20group-,Developer)
 
 ### Our project:
 * [Pegasus Mobile](#)
