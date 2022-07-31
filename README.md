@@ -1,13 +1,9 @@
-# Out Of Box
-Official Github Page
-
-
 # Hello and welcome
 
 ### Pages
 * [Installing](pegasus.html)
 * [Other](#)
-* [Releases](#)
+* [Releases PegasusUi](release)
 * [Developers](https://xixada.github.io/#:~:text=Link%20to%20group-,Developer)
 
 ### Our project:
