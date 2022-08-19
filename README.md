@@ -26,9 +26,3 @@ Although Pegasus Mobile is like an application that requires root access, the fa
 
 ### Developer
 * [Joe](#)
-* [Red hat](#)
-* [Alex](#)
-* [Zain](#)
-* [Termiar](#)
-* [Dominik](https://github.com/DevKanui)
-* [Lutfi](#)
