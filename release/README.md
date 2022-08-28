@@ -1,4 +1,4 @@
 ### PEGASUS Ui RELEASE.
 SOON PegasusUi v1.0 SELAT SUNDA SECURITY EDITION.
 
-<img src="20220828_152302.jpg">
+<img src="20220828_152938.jpg">
