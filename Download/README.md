@@ -1,7 +1,4 @@
 ### Pages
-* [Installing](pegasus.html)
-* [Other](#)
-* [Releases PegasusUi](release)
 * [Developers](https://xixada.github.io/#:~:text=Link%20to%20group-,Developer)
 * [HOME PAGE](https://xixadad.github.io)
 
