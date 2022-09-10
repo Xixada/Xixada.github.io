@@ -1,4 +1,4 @@
-# Hello and welcome
+# Hi!,
 
 ### Pages
 * [Installing](pegasus.html)
