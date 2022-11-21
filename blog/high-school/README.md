@@ -1,5 +1,5 @@
 # Manfaat Tempuyung.
-<img src="Screenshot_20221121-083341_1.jpg" width="100px" />
+<img src="Screenshot_20221121-083341_1.jpg" width="500px" />
 
 ### Full explanation.
 
